@@ -6,3 +6,4 @@ eureka:
             defaultZone: http://localhost:8762/eureka/
     instance:
         hostname: localhost
+message: welcome the config server!
